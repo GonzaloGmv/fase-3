@@ -10,10 +10,14 @@
   <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
   <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
 </head>
-
+<py-env>
+  - paths:
+    - ./fase3.py
+</py-env>
 <body>
   <py-script>
-print("hello world") 
+import fase3
+fase3.fase()
   </py-script>
 </body>
 
