@@ -1,2 +1,0 @@
-def fase():
-  print("prueba")
