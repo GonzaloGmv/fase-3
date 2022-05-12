@@ -24,4 +24,7 @@ class graficos:
 
 
 if __name__=='__main__':
+  
   graficos.pie()
+
+

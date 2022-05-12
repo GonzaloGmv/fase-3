@@ -36,4 +36,5 @@ Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase-3.git)
 [Gonzalo]()
 [Zazo]()
 [Carlos]()
-[Nacho]
+[Nacho]()
+[Miguel]()

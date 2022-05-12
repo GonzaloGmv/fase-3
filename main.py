@@ -1,4 +1,4 @@
-import pandas as pd
+import archivo
 
 def archivo():
   df = pd.read_csv("vehicles(10k).csv")
