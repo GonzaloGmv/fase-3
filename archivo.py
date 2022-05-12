@@ -1,6 +1,16 @@
 import pandas as pd
+import matplotlib.pyplot as plt
 
+ 
 def archivo():
-  df = pd.read_csv("vehicles(10k).csv")
-  file = df.groupby("region").agg({"price" : 'mean'})
-  print(file)
+  pd.options.display.max_rows = 150
+  datos = pd.read_csv("vehicles(1500).csv")
+  region = df.groupby("region").agg({"price" : 'min', "year" : 'max'})
+  model = df.groupby("model").agg({"price" : 'min', "year" : 'max'})
+
+ 
+def Dartabla:
+print(datos)
+
+def Promediodinero:
+print(["price"].mean())

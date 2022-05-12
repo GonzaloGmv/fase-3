@@ -1,9 +1,39 @@
 # fase-3
+Enlace a la pagina web : [Fase 3](https://fase-3.gonzalogmv.repl.co)
+Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase-3.git)
 
-Los integrantes de este proyecto son: 
 
-- Gonzalo Martinez [GitHub](https://github.com/GonzaloGmv)
-- Miguel Gonzalez [GitHub](https://github.com/migueliiin)
-- Jose Zazo [GitHub](https://github.com/jzazooro)
-- Carlos Puigserver [GitHub](https://github.com/carlospuigserver)
-- Ignacio Pedrero [GitHub](https://github.com/Nachopedrero)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### - Perfiles
+
+[Gonzalo]()
+[Zazo]()
+[Carlos]()
+[Nacho]
