@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head> 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width">
-  <title>fase 3</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
-  
-  <link rel="stylesheet" href="https://pyscript.net/alpha/pyscript.css" />
-  <script defer src="https://pyscript.net/alpha/pyscript.js"></script>
-</head>
-<py-env>
-  - pandas
-  - matplotlib
-  - numpy
-</py-env>
-<body>
-  <py-script>
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
@@ -69,8 +50,6 @@ def main():
        print(solo_precios)
        tarta_with_labels(solo_precios,nombres,'REGIONES Y PRECIOS')
 
-main()
-  </py-script>
-</body>
 
-</html> 
+if __name__=='__main__':
+      main()
