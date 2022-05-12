@@ -33,8 +33,8 @@ Enlace al repositorio : [GitHub](https://github.com/GonzaloGmv/fase-3.git)
 
 ### - Perfiles
 
-[Gonzalo]()
-[Zazo]()
-[Carlos]()
-[Nacho]()
-[Miguel]()
+[Gonzalo](https://github.com/GonzaloGmv)
+[Zazo](https://github.com/jzazooro)
+[Carlos](https://github.com/carlospuigserver)
+[Nacho](https://github.com/Nachopedrero)
+[Miguel](https://github.com/migueliiin)
