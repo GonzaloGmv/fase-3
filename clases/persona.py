@@ -6,6 +6,3 @@ class persona:
   self.ID = ID
   self.ciudad = ciudad
   self.coche = ()
-
-
-  
